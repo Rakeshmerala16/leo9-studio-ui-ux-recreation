@@ -2,7 +2,7 @@
 
 **Frontend Internship Assignment - Enhanced Recreation of Leo9 Studio Homepage**
 
-🌐 **[Live Demo](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/90132037f8f79c140acc5ff845b82af7/da446176-a32d-48f2-8d86-b15c6d0bd35a/index.html)**
+🌐 **[Live Demo](https://rakeshmerala16.github.io/leo9-studio-ui-ux-recreation/)**
 
 ## 📋 Assignment Requirements ✅
 
